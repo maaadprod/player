@@ -1,0 +1,8 @@
+{
+  "songs": [
+    { "id": 1, "title": "First song", "file": "bensound-anewbeginning.mp3" },
+    { "id": 2, "title": "Second song", "file": "bensound-creativeminds.mp3" },
+    { "id": 3, "title": "Third song", "file": "bensound-summer.mp3" },
+    { "id": 4, "title": "Fourth song", "file": "bensound-ukulele.mp3" }
+  ]
+}
